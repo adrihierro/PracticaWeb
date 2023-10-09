@@ -1,0 +1,14 @@
+.th, td {
+    border: 1px solid black;
+     padding: 8px;
+    text-align: center;
+}
+
+.titol{
+    text-align: center;
+}
+
+table {
+    border: 2px solid black; 
+    margin: 20px; 
+}
