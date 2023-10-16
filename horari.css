@@ -12,3 +12,44 @@ table {
     border: 2px solid black; 
     margin: 20px; 
 }
+
+.serveis{
+    background-color: #111fe6;
+    color: #f58d06;
+    
+}
+
+.seguretat{
+    background-color: #11ec1c;
+    color: red;
+
+
+}
+
+.sistemes {
+    background-color: #04eeff;
+    color: #fc0ffc;
+}
+
+.eie {
+    background-color: #ecfc12;
+    color: #000;
+}
+
+.aplicacions {
+    background-color: #ff00629f ;
+    color: #0cf0dd;
+}
+
+.web {
+    background-color: #d813df;
+    color: #ffffff;
+}
+
+.pati {
+    background-color: #f58d06;
+}
+
+.Grup {
+    background-color: #f10707;
+}
